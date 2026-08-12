@@ -1,10 +1,3 @@
-## Research paper
-
-> **MagicFace: High-Fidelity Facial Expression Editing with Action-Unit Control**  
-> Mengting Wei, Tuomas Varanka, Xingxun Jiang, Huai-Qian Khor, Guoying Zhao  
-> University of Oulu  
-> [arXiv paper](https://arxiv.org/abs/2501.02260)
-
 
 # MagicFace: Facial Expression Editing with Action-Unit Control
 
