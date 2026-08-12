@@ -188,21 +188,28 @@ The notebook has been cleaned of generated outputs so that private experimental 
 
 ## Private experimental data
 
-The original video used for the video experiment is personally owned by the project author and is therefore **not included in this public repository**.
+The video used for the video experiment is personally owned by the project author and is therefore **not included in this public repository**.
 
-For the same reason, the repository does not contain:
+For privacy and copyright reasons, the following experimental media are intentionally excluded:
 
-* the original video
-* extracted video frames
-* edited frames
-* generated videos
-* private face images
+- original input video
+- extracted video frames
+- edited/generated frames
+- reconstructed videos
+- private face images
 
-The repository preserves the experiment structure and documentation without redistributing the underlying private media.
+The repository contains the code, experiment structure, quantitative results, and documentation necessary to understand the experiment without redistributing the underlying private media.
 
-Selected results can be made available **for viewing upon request for research or recruitment evaluation**.
+### Requesting access
 
-Private media and generated outputs may not be redistributed, republished, or reused without permission from the author.
+Selected experimental outputs, including the original input video and corresponding generated results, may be made available **for viewing-only purposes upon request** for research or recruitment evaluation.
+
+To request access, please contact:
+
+**marwakhan1st@gmail.com**
+
+Private media and generated outputs may not be redistributed, republished, or reused without permission from the project author.
+
 
 ---
 
