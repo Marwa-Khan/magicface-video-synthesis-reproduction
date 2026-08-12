@@ -5,13 +5,6 @@
 > University of Oulu  
 > [arXiv paper](https://arxiv.org/abs/2501.02260)
 
-This project is based on the publicly released implementation and pretrained model of the original MagicFace work.
-
-The original MagicFace implementation and research are the work of the authors above. This repository is an **independent reproduction and experimental extension** focused on reproducing the inference pipeline and investigating its application to frame-wise video expression editing.
-
-The original implementation should be cited when using or extending the MagicFace method.
-
-
 
 # MagicFace: Facial Expression Editing with Action-Unit Control
 
