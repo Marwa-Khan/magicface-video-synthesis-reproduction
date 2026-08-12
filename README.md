@@ -26,11 +26,16 @@ This project focuses on reproducing the published inference pipeline and explori
 
 ## Research paper
 
-**MagicFace: High-Fidelity Facial Expression Editing with Action-Unit Control**
+> **MagicFace: High-Fidelity Facial Expression Editing with Action-Unit Control**  
+> Mengting Wei, Tuomas Varanka, Xingxun Jiang, Huai-Qian Khor, Guoying Zhao  
+> University of Oulu  
+> [arXiv paper](https://arxiv.org/abs/2501.02260)
 
-The implementation in this repository is based on the publicly released MagicFace implementation and pretrained model.
+This project is based on the publicly released implementation and pretrained model of the original MagicFace work.
 
-This repository is an **independent reproduction and experimental extension** and is not the original implementation.
+The original MagicFace implementation and research are the work of the authors above. This repository is an **independent reproduction and experimental extension** focused on reproducing the inference pipeline and investigating its application to frame-wise video expression editing.
+
+The original implementation should be cited when using or extending the MagicFace method.
 
 ---
 
