@@ -1,0 +1,33 @@
+
+============================================================
+MagicFace Identity Evaluation Report
+============================================================
+
+Number of generated expressions : 6
+
+Average identity similarity     : 0.8053
+Standard deviation              : 0.0547
+
+Highest similarity
+------------------
+Expression : AU12_p3_smile
+Score      : 0.8804
+
+Lowest similarity
+-----------------
+Expression : AU12_p6_strong_smile
+Score      : 0.7517
+
+Interpretation
+--------------
+• Higher cosine similarity indicates better identity preservation.
+• All generated expressions achieved similarity scores above 0.75.
+• The highest score was obtained for AU12_p3_smile (0.8805),
+  indicating excellent preservation of facial identity.
+• Stronger facial deformations (e.g., strong smile and happy)
+  resulted in slightly lower similarity scores, which is expected
+  because larger expression changes alter facial geometry more.
+• Overall, the results indicate that MagicFace successfully edits
+  facial expressions while preserving identity across all tested cases.
+
+============================================================

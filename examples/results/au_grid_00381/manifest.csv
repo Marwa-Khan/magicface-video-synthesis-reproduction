@@ -1,0 +1,7 @@
+name,label,au_test,AU_variation,status,output
+AU12_p3_smile,AU12 +3,AU12,3,skipped_existing,/content/drive/MyDrive/magicface_reproduction/results/au_grid_00381/AU12_p3_smile/00381.png
+AU12_p6_strong_smile,AU12 +6,AU12,6,skipped_existing,/content/drive/MyDrive/magicface_reproduction/results/au_grid_00381/AU12_p6_strong_smile/00381.png
+AU4_p4_brow_lower,AU4 +4,AU4,4,skipped_existing,/content/drive/MyDrive/magicface_reproduction/results/au_grid_00381/AU4_p4_brow_lower/00381.png
+happy_AU6_AU12,AU6+AU12,AU6+AU12,3+5,skipped_existing,/content/drive/MyDrive/magicface_reproduction/results/au_grid_00381/happy_AU6_AU12/00381.png
+sad_AU1_AU4_AU15,AU1+AU4+AU15,AU1+AU4+AU15,2+3+4,skipped_existing,/content/drive/MyDrive/magicface_reproduction/results/au_grid_00381/sad_AU1_AU4_AU15/00381.png
+mouth_AU25_AU26,AU25+AU26,AU25+AU26,4+3,skipped_existing,/content/drive/MyDrive/magicface_reproduction/results/au_grid_00381/mouth_AU25_AU26/00381.png
