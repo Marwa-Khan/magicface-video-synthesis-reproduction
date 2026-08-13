@@ -227,9 +227,7 @@ magicface-au-video-reproduction/
 │
 ├── scripts/
 │   ├── run_magicface_inference_wrapper.py
-│   ├── run_video_inference.py
-│   ├── compute_identity_similarity.py
-│   └── compute_frame_statistics.py
+│   
 │
 ├── configs/
 │   └── experiments.md
@@ -238,9 +236,6 @@ magicface-au-video-reproduction/
 │   ├── input_images/
 │   └── results/
 │
-├── results/
-│   ├── identity_evaluation/
-│   └── video_experiment/
 │
 └── docs/
     └── research_notes.md
